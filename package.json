@@ -1,0 +1,18 @@
+{
+  "name": "webapp-cicd",
+  "version": "1.0.0",
+  "description": "Simple Web App with CI/CD",
+  "scripts": {
+    "lint": "eslint public/script.js",
+    "build": "echo 'Build step executed'"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "eslint": "^9.23.0",
+    "eslint-plugin-react": "^7.37.4",
+    "gh-pages": "^6.3.0",
+    "globals": "^16.0.0",
+    "jest": "^29.7.0",
+    "typescript-eslint": "^8.27.0"
+  }
+}
