@@ -22,3 +22,4 @@ This is a simple web application with a CI/CD pipeline using GitHub Actions.
    npm run build
    ```
 5. Push to GitHub to trigger the pipeline
+6. Go to https://juhith-max.github.io/devops-ci-cd/ to view the web page.
